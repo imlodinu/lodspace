@@ -1,0 +1,256 @@
+{
+  "main": {
+    "id": "c60ddef0c8102414",
+    "type": "split",
+    "children": [
+      {
+        "id": "379a29b134c05c4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27755432b031bf3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ztslipbox.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2254afcf9d2e9f0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_slipbox/organic_chemistry.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ae59c6c7e5c72f6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "08972531089fe7f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13dcbf5439b4bc1f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cf4238e5fa2c6484",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#task",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "15131f8c75d3674d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 301.5
+  },
+  "right": {
+    "id": "c18e639866968ce9",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a55d5628383a040",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2890075596ec01b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ztslipbox.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "93ff08cdde76628d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ztslipbox.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b3b5ba24cbc2c689",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "92c1372cfa552d74",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ztslipbox.md"
+              }
+            }
+          },
+          {
+            "id": "cb7316af886ce912",
+            "type": "leaf",
+            "state": {
+              "type": "stats-tracker",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-grammarly-plugin:Enable Grammarly": false,
+      "obsidian-projects:Open projects": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-full-calendar:Open Full Calendar": false
+    }
+  },
+  "floating": {
+    "id": "1f946adde5dd91b6",
+    "type": "floating",
+    "children": [
+      {
+        "id": "afb8fed52403c8a4",
+        "type": "window",
+        "children": [
+          {
+            "id": "c5036a6c2c923dec",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0da9c8e99796d5fc",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "zettel.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 447,
+        "y": 19,
+        "width": 1574,
+        "height": 992,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "27755432b031bf3a",
+  "lastOpenFiles": [
+    "zettel.md",
+    "_slipbox/organic_chemistry.md",
+    "_slipbox/prisigZenArtMotorcycle2014.md",
+    "_slipbox/introduction_to_chemistry.md",
+    "10 s2 science objectives.md",
+    "_slipbox/skirvingOrganicChemistry.md",
+    "_inbox/introduction to organic chemistry.md",
+    "media/2. Energy and Sustainability SOLO Objectives 2022.doc",
+    "media/~$Organic+chemistry+hydrocarbons+(4).pptx",
+    "media/Organic+chemistry+hydrocarbons+(4).pptx",
+    "GMTK 2023 brainstorming.md",
+    "intro to organic chemistry.md",
+    "rustau zig talk.md",
+    "task_bucket/play fortnite.md",
+    "task_bucket/return to school.md",
+    "task_bucket/note for organic chemistry.md",
+    "task_bucket/note for ess.md",
+    "task_bucket/make zettel.md",
+    "templates/task.md",
+    "templates/task_update.md",
+    "templater/get_note_time.js",
+    "templater/get_day_folder.js",
+    "templater/get_datetime_from_object.js",
+    "templater/formatted_frontmatter.js",
+    "templater/default_frontmatter.js",
+    "templater/default.js",
+    "templater/date_line.js",
+    "templates/Untitled.md",
+    "tasks.md",
+    "ztslipbox.md",
+    "templates/lit.md",
+    "RAT revisions.md",
+    "ztinbox.md",
+    "object Object.md",
+    "templates/bib.md",
+    "_slipbox/introduction_to chemistry.md",
+    "Untitled.canvas",
+    "media/na0znlyp.bmp",
+    "Pasted image 20230714223403.jpg"
+  ]
+}

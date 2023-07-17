@@ -1,0 +1,42 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "_slipbox",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "jpg",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [
+    {
+      "name": "APA7 Bibliography",
+      "format": "formatted-bibliography",
+      "cslStyle": "apa"
+    },
+    {
+      "name": "Harvard Bibliography",
+      "format": "formatted-bibliography",
+      "cslStyle": "the-university-of-western-australia-harvard"
+    },
+    {
+      "name": "Harvard",
+      "format": "formatted-citation",
+      "cslStyle": "the-university-of-western-australia-harvard"
+    },
+    {
+      "name": "APA7",
+      "format": "formatted-citation",
+      "cslStyle": "apa"
+    }
+  ],
+  "exportFormats": [
+    {
+      "name": "Import #1",
+      "outputPathTemplate": "_slipbox/{{citekey}}.md",
+      "imageOutputPathTemplate": "media/{{citekey}}/",
+      "imageBaseNameTemplate": "image",
+      "cslStyle": "apa",
+      "templatePath": "templates/bib.md"
+    }
+  ],
+  "citeSuggestTemplate": "[[{{citekey}}]]",
+  "openNoteAfterImport": false,
+  "whichNotesToOpenAfterImport": "first-imported-note"
+}
