@@ -17,19 +17,19 @@
     "pageCountType": "ByWords"
   },
   "cachedCounts": {
-    "_slipbox/organic_chemistry.md": {
+    "test.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 4,
-      "pageCount": 0.013333333333333334,
-      "characterCount": 18,
-      "nonWhitespaceCharacterCount": 13,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1689575707700,
-      "modifiedDate": 1689575738080,
-      "sizeInBytes": 18
+      "createdDate": 1689589082394,
+      "modifiedDate": 1689589082394,
+      "sizeInBytes": 0
     },
     "_slipbox/skirvingOrganicChemistry.md": {
       "isDirectory": false,
@@ -72,6 +72,34 @@
       "createdDate": 1689496527475,
       "modifiedDate": 1689497680539,
       "sizeInBytes": 198
+    },
+    "_inbox/organic_chem.excalidraw.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1689576643840,
+      "modifiedDate": 1689582586316,
+      "sizeInBytes": 332476
+    },
+    "_inbox/organic chemistry.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 1283,
+      "pageCount": 4.276666666666666,
+      "characterCount": 8407,
+      "nonWhitespaceCharacterCount": 7052,
+      "linkCount": 11,
+      "embedCount": 4,
+      "aliases": null,
+      "createdDate": 1689575707700,
+      "modifiedDate": 1689589080358,
+      "sizeInBytes": 8407
     },
     "_inbox/underwater world dream.md": {
       "isDirectory": false,
@@ -118,16 +146,16 @@
     "ztinbox.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 24,
-      "pageCount": 0.08,
-      "characterCount": 157,
-      "nonWhitespaceCharacterCount": 133,
+      "wordCount": 28,
+      "pageCount": 0.09333333333333334,
+      "characterCount": 180,
+      "nonWhitespaceCharacterCount": 152,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1689417517619,
-      "modifiedDate": 1689345220507,
-      "sizeInBytes": 157
+      "modifiedDate": 1689576446451,
+      "sizeInBytes": 180
     },
     "zettel.md": {
       "isDirectory": false,
@@ -160,16 +188,16 @@
     "templates/lit.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 19,
-      "pageCount": 0.06333333333333334,
-      "characterCount": 155,
-      "nonWhitespaceCharacterCount": 137,
+      "wordCount": 17,
+      "pageCount": 0.056666666666666664,
+      "characterCount": 132,
+      "nonWhitespaceCharacterCount": 116,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1689497759251,
-      "modifiedDate": 1689499060484,
-      "sizeInBytes": 155
+      "modifiedDate": 1689578848703,
+      "sizeInBytes": 132
     },
     "templates/bib.md": {
       "isDirectory": false,
@@ -230,16 +258,16 @@
     "intro to organic chemistry.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 1096,
-      "pageCount": 3.6533333333333333,
-      "characterCount": 7819,
-      "nonWhitespaceCharacterCount": 6150,
+      "wordCount": 1095,
+      "pageCount": 3.65,
+      "characterCount": 7811,
+      "nonWhitespaceCharacterCount": 6144,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1689417517549,
-      "modifiedDate": 1689402501167,
-      "sizeInBytes": 7835
+      "modifiedDate": 1689576481943,
+      "sizeInBytes": 7827
     },
     "10 s2 english composing task.md": {
       "isDirectory": false,

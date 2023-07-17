@@ -6,7 +6,7 @@
     "2023/6/14": 190,
     "2023/6/15": 340,
     "2023/6/16": 332,
-    "2023/6/17": 3
+    "2023/6/17": 1247
   },
   "todaysWordCount": {
     "task_bucket/play fortnite.md": {
@@ -28,6 +28,30 @@
     "intro to organic chemistry.md": {
       "initial": 1078,
       "current": 1078
+    },
+    "templates/lit.md": {
+      "initial": 20,
+      "current": 18
+    },
+    "_inbox/organic_chemistry.md": {
+      "initial": 3,
+      "current": 564
+    },
+    "_inbox/functional group.md": {
+      "initial": 0,
+      "current": 26
+    },
+    "_inbox/homologous series.md": {
+      "initial": 1,
+      "current": 3
+    },
+    "_inbox/organic chemistry.md": {
+      "initial": 565,
+      "current": 1217
+    },
+    "test.md": {
+      "initial": 0,
+      "current": 3
     }
   }
 }
