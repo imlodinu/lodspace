@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "12e30e6cf42c07e9",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "obsidian-projects",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
             "id": "0da9c8e99796d5fc",
             "type": "leaf",
             "pinned": true,
@@ -117,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "zettel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "zettel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "zettel.md"
+              }
             }
           },
           {
@@ -189,7 +183,7 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "12e30e6cf42c07e9",
+  "active": "0da9c8e99796d5fc",
   "lastOpenFiles": [
     "zettel.md",
     "task_bucket/return to school.md",
