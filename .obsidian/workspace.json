@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ztinbox.md",
+                "file": "intro to organic chemistry.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ztinbox.md",
+                "file": "intro to organic chemistry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ztinbox.md",
+                "file": "intro to organic chemistry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ztinbox.md"
+                "file": "intro to organic chemistry.md"
               }
             }
           },
@@ -213,9 +213,11 @@
   },
   "active": "27755432b031bf3a",
   "lastOpenFiles": [
+    "ztinbox.md",
+    "_slipbox/organic_chemistry.md",
+    "intro to organic chemistry.md",
     "ztslipbox.md",
     "zettel.md",
-    "_slipbox/organic_chemistry.md",
     "_slipbox/prisigZenArtMotorcycle2014.md",
     "_slipbox/introduction_to_chemistry.md",
     "10 s2 science objectives.md",
@@ -225,7 +227,6 @@
     "media/~$Organic+chemistry+hydrocarbons+(4).pptx",
     "media/Organic+chemistry+hydrocarbons+(4).pptx",
     "GMTK 2023 brainstorming.md",
-    "intro to organic chemistry.md",
     "rustau zig talk.md",
     "task_bucket/play fortnite.md",
     "task_bucket/return to school.md",
@@ -245,7 +246,6 @@
     "tasks.md",
     "templates/lit.md",
     "RAT revisions.md",
-    "ztinbox.md",
     "object Object.md",
     "templates/bib.md",
     "_slipbox/introduction_to chemistry.md",

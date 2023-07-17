@@ -1,4 +1,3 @@
-#ztlit 
 - objectives [[10 s2 science objectives]]
     1. <mark style="background: #ADCCFFA6;">I can state what organic chemistry is</mark>
     2. <mark style="background: #ADCCFFA6;">I can explain how fractional distillation works and how it is used to separate different substances within crude oil.</mark>
