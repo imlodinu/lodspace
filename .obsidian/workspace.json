@@ -8,12 +8,44 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7f76458551a4a32e",
+            "id": "12e30e6cf42c07e9",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "obsidian-projects",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "0da9c8e99796d5fc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettel.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "fbc9695684d931a3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "da1ad6eae32c0697",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_inbox/organic chemistry.md",
+                "file": "ztinbox.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#card",
+                "query": "tag:#ztlit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.500732421875
+    "width": 301.5
   },
   "right": {
     "id": "c18e639866968ce9",
@@ -85,7 +117,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_inbox/organic chemistry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +133,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_inbox/organic chemistry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +154,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_inbox/organic chemistry.md"
-              }
+              "state": {}
             }
           },
           {
@@ -146,6 +174,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -155,56 +186,45 @@
       "markdown-importer:Open format converter": false,
       "obsidian42-brat:BRAT": false,
       "obsidian-grammarly-plugin:Enable Grammarly": false,
-      "obsidian-projects:Open projects": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-projects:Open projects": false
     }
   },
-  "active": "7f76458551a4a32e",
+  "active": "12e30e6cf42c07e9",
   "lastOpenFiles": [
-    "test.md",
-    "_inbox/organic chemistry.md",
-    "_inbox/labelling_branched_alkanes_3.svg",
-    "_inbox/organic_chem.excalidraw.md",
-    "_inbox/labelling_branched_alkanes_2.svg",
-    "_inbox/labelling_branched_alkanes_1.svg",
-    "_inbox/labelling_branched_alkanes_0.svg",
-    "_inbox/underwater world dream.md",
-    "10 s2 science objectives.md",
-    "intro to organic chemistry.md",
     "zettel.md",
-    "templates/lit.md",
-    "_inbox/functional group.md",
-    "_inbox/homologous series.md",
-    "functional groups and homologous series.md",
-    "_slipbox/boardworksIntroducingOrganicChemistry2009.md",
-    "ztinbox.md",
-    "RAT revisions.md",
-    "GMTK 2023 brainstorming.md",
-    "10 s2 english composing task.md",
-    "media/~$Organic+chemistry+hydrocarbons+(4).pptx",
-    "ztslipbox.md",
-    "_slipbox/prisigZenArtMotorcycle2014.md",
-    "_slipbox/introduction_to_chemistry.md",
-    "_slipbox/skirvingOrganicChemistry.md",
-    "_inbox/introduction to organic chemistry.md",
-    "media/2. Energy and Sustainability SOLO Objectives 2022.doc",
-    "media/Organic+chemistry+hydrocarbons+(4).pptx",
-    "rustau zig talk.md",
-    "task_bucket/play fortnite.md",
     "task_bucket/return to school.md",
+    "ztinbox.md",
+    "ztslipbox.md",
+    "ztoutbox.md",
+    "_slipbox/ahrensHowTakeSmart.md",
+    "_slipbox/prisigZenArtMotorcycle2014.md",
+    "Beans.md",
+    "_slipbox/How to Take Smart Notes One Simple Technique to Boost Writing, Learning and Thinking.md",
+    "_slipbox/Zen and the Art of Motorcycle Maintenance.md",
+    "_slipbox",
+    "slipbox/Untitled",
+    "slipbox/bib",
+    "media/Sonke Ahrens - How to Take Smart Notes One Simple Technique to Boost Writing, Learning and Thinking (2022, Sonke Ahrens).epub",
+    "intro to organic chemistry.md",
+    "task_bucket/make zettel.md",
+    "10 s2 science objectives.md",
+    "10 s2 english composing task.md",
+    "GMTK 2023 brainstorming.md",
     "task_bucket/note for organic chemistry.md",
+    "templates/task.md",
     "task_bucket/note for ess.md",
-    "templater/get_note_time.js",
-    "templater/get_day_folder.js",
-    "templater/get_datetime_from_object.js",
-    "templater/formatted_frontmatter.js",
-    "templater/default_frontmatter.js",
-    "templater/default.js",
-    "templater/date_line.js",
-    "Untitled.canvas",
+    "inbox.md",
+    "_outbox",
+    "_bibbox",
+    "_inbox",
+    "rustau zig talk.md",
+    "RAT revisions.md",
+    "gamedev projects.md",
     "media/na0znlyp.bmp",
-    "Pasted image 20230714223403.jpg"
+    "media",
+    "Pasted image 20230714223403.jpg",
+    "templates",
+    "task_bucket",
+    "Untitled.canvas"
   ]
 }
