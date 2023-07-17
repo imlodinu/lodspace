@@ -17,20 +17,6 @@
     "pageCountType": "ByWords"
   },
   "cachedCounts": {
-    "test.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1689589082394,
-      "modifiedDate": 1689589082394,
-      "sizeInBytes": 0
-    },
     "_slipbox/skirvingOrganicChemistry.md": {
       "isDirectory": false,
       "noteCount": 1,

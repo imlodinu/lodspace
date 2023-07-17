@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "afbc35b20f0f13f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "_inbox/organic chemistry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
+                "file": "_inbox/organic chemistry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
+                "file": "_inbox/organic chemistry.md"
               }
             }
           },
@@ -174,10 +161,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "afbc35b20f0f13f2",
+  "active": "7f76458551a4a32e",
   "lastOpenFiles": [
-    "_inbox/organic chemistry.md",
     "test.md",
+    "_inbox/organic chemistry.md",
     "_inbox/labelling_branched_alkanes_3.svg",
     "_inbox/organic_chem.excalidraw.md",
     "_inbox/labelling_branched_alkanes_2.svg",
