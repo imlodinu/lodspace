@@ -8,6 +8,16 @@
         "type": "tabs",
         "children": [
           {
+            "id": "12e30e6cf42c07e9",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "obsidian-projects",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
             "id": "0da9c8e99796d5fc",
             "type": "leaf",
             "pinned": true,
@@ -25,8 +35,12 @@
             "id": "fbc9695684d931a3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_inbox/underwater world dream.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -107,7 +121,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +137,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,9 +158,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "zettel.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,9 +178,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -183,8 +190,9 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "0da9c8e99796d5fc",
+  "active": "12e30e6cf42c07e9",
   "lastOpenFiles": [
+    "_inbox/underwater world dream.md",
     "zettel.md",
     "task_bucket/return to school.md",
     "ztinbox.md",
