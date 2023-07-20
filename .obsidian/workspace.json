@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_slipbox/skirvingOrganicChemistryEnergy2023.md",
+                "file": "_inbox/organic chemistry energy uses.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_slipbox/skirvingOrganicChemistryEnergy2023.md",
+                "file": "_inbox/organic chemistry energy uses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_slipbox/skirvingOrganicChemistryEnergy2023.md",
+                "file": "_inbox/organic chemistry energy uses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_slipbox/skirvingOrganicChemistryEnergy2023.md"
+                "file": "_inbox/organic chemistry energy uses.md"
               }
             }
           },
@@ -178,15 +178,15 @@
   },
   "active": "684a92fddbc36b6c",
   "lastOpenFiles": [
-    "_slipbox/skirvingOrganicChemistryHydrocarbons2023.md",
-    "_slipbox/skirvingOrganicChemistry.md",
+    "_inbox/organic chemistry hydrocarbons.md",
+    "_inbox/organic chemistry energy uses.md",
     "_slipbox/skirvingOrganicChemistryEnergy2023.md",
+    "_slipbox/skirvingOrganicChemistry.md",
+    "_slipbox/skirvingOrganicChemistryHydrocarbons2023.md",
     "_slipbox/prisigZenArtMotorcycle2014.md",
     "_slipbox/prisigZenArtMotorcycle2014_LAPTOP-UM55OBHC_Jul-17-231536-2023_Conflict.md",
     "_slipbox/10 s2 science objectives.md",
     "intro to organic chemistry.md",
-    "_inbox/organic chemistry energy uses.md",
-    "_inbox/organic chemistry hydrocarbons.md",
     "zettel.md",
     "_inbox/into the spiderverse.md",
     "Day Planners/Day Planner-20230720.md",

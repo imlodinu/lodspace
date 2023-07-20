@@ -1,5 +1,5 @@
 #ztlit 
-[[skirvingOrganicChemistry]]
+[[skirvingOrganicChemistryHydrocarbons2023]]
 # notes
 ## objectives
 - [x] Recognise homologous series of hydrocarbons: Alkanes, alkenes, alkynes, cycloalkanes, cycloalkenes  [completion:: 2023-07-19]
