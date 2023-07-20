@@ -16,4 +16,5 @@
 	- fossil fuels are hydrocarbons, and the combustion of hydrocarbons results in the release of $CO_2$ and $H_2O$.
 # greenhouse effect
 - when insolation reaches earth's surface, some is reflected in the form of albedo. 
-- the albedo reflects onto greenhouse gases, such as $CO_2$, increasing their kinetic energy(heat).
+- the albedo reflects onto greenhouse gases, such as $CO_2$, increasing their kinetic energy (heat).
+- with an increase of greenhouse gases, less of the albedo is reflected into space and more 
