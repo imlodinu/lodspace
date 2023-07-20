@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_inbox/organic chemistry energy uses.md",
+                "file": "_inbox/organic chemistry fossil fuels.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_inbox/organic chemistry energy uses.md",
+                "file": "_inbox/organic chemistry fossil fuels.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_inbox/organic chemistry energy uses.md",
+                "file": "_inbox/organic chemistry fossil fuels.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_inbox/organic chemistry energy uses.md"
+                "file": "_inbox/organic chemistry fossil fuels.md"
               }
             }
           },
@@ -202,8 +202,9 @@
   },
   "active": "684a92fddbc36b6c",
   "lastOpenFiles": [
-    "_slipbox/10 s2 science objectives.md",
     "_inbox/organic chemistry energy uses.md",
+    "_inbox/organic chemistry fossil fuels.md",
+    "_slipbox/10 s2 science objectives.md",
     "Day Planners/Day Planner-20230720.md",
     "zettel.md",
     "_inbox/basic sql snippets.md",
@@ -230,7 +231,6 @@
     "media/Organic+chemistry+hydrocarbons+(4).pptx",
     "media/Sonke Ahrens - How to Take Smart Notes One Simple Technique to Boost Writing, Learning and Thinking (2022, Sonke Ahrens).epub",
     "media/2. Energy and Sustainability SOLO Objectives 2022.doc",
-    "_inbox/organic_chem.excalidraw.md",
     "_inbox/labelling_branched_alkanes_3.svg",
     "_inbox/labelling_branched_alkanes_2.svg",
     "_inbox/labelling_branched_alkanes_1.svg",

@@ -1,6 +1,6 @@
 {
   "dayCounts": {
-    "2023/6/20": 499
+    "2023/6/20": 605
   },
   "todaysWordCount": {
     "_inbox/sql intro.md": {
@@ -30,6 +30,10 @@
     "_inbox/organic chemistry hydrocarbons.md": {
       "initial": 2079,
       "current": 2079
+    },
+    "_inbox/organic chemistry fossil fuels.md": {
+      "initial": 1,
+      "current": 107
     }
   }
 }

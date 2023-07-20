@@ -34,16 +34,16 @@
     "_slipbox/10 s2 science objectives.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 1748,
-      "pageCount": 5.826666666666667,
-      "characterCount": 11740,
-      "nonWhitespaceCharacterCount": 9975,
+      "wordCount": 1754,
+      "pageCount": 5.846666666666667,
+      "characterCount": 11777,
+      "nonWhitespaceCharacterCount": 10007,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1689720044273,
-      "modifiedDate": 1689845858746,
-      "sizeInBytes": 11754
+      "modifiedDate": 1689846640162,
+      "sizeInBytes": 11791
     },
     "_slipbox/skirvingOrganicChemistryEnergy2023.md": {
       "isDirectory": false,
@@ -115,6 +115,20 @@
       "modifiedDate": 1689414604000,
       "sizeInBytes": 0
     },
+    "_inbox/organic chemistry fossil fuels.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1689847014331,
+      "modifiedDate": 1689847014331,
+      "sizeInBytes": 0
+    },
     "_inbox/underwater world dream.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -174,16 +188,16 @@
     "_inbox/organic chemistry energy uses.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 238,
-      "pageCount": 0.7933333333333333,
-      "characterCount": 1576,
-      "nonWhitespaceCharacterCount": 1317,
-      "linkCount": 1,
+      "wordCount": 400,
+      "pageCount": 1.3333333333333333,
+      "characterCount": 2625,
+      "nonWhitespaceCharacterCount": 2196,
+      "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1689843758023,
-      "modifiedDate": 1689825988000,
-      "sizeInBytes": 1576
+      "modifiedDate": 1689846815597,
+      "sizeInBytes": 2625
     },
     "_inbox/into the spiderverse.md": {
       "isDirectory": false,
@@ -406,7 +420,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1689841888451,
-      "modifiedDate": 1689846032101,
+      "modifiedDate": 1689847022104,
       "sizeInBytes": 847
     },
     "Day Planners/Day Planner-20230719.md": {
