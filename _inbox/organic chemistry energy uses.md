@@ -1,6 +1,8 @@
 #ztlit 
 [[skirvingOrganicChemistryEnergy2023]]
 
+## energy
+- energy is the ability to do work.
 ## uses of energy
 
 | direct | indirect |
@@ -8,7 +10,6 @@
 |stored chemical energy in laptop transformed to _light energy_ in the display| heat and electrical energy involved in the production of a laptop|
 |respiration converts the stored chemical energy into _ATP energy_ for cells|photosynthesis converts light energy into stored chemical energy in the form of food, food is consumed|
 |solar cells converts insolation into _electrical energy_ to power appliances|electrical energy used in order to produce solar cells|
-
 ## direct energy
  - direct energy is energy used by oneself.
 ## indirect energy
