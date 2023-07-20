@@ -11,7 +11,7 @@
 ## direct energy
  - direct energy usage is the usage of an energy source without modification as it is.
 ## indirect energy
- - indirect energy usage is energy used in order to use directly use energy.
+ - indirect energy usage is energy associated with the p
 ## process of fossil fuel formation
 - natural gas
 - crude oil
