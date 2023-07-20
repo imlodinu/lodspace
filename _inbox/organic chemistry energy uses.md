@@ -8,7 +8,7 @@
 ## indirect energy
 - indirect energy is energy associated with production.
 ## energy consumption
-- all the energy required to 
+- all the energy required to perform an action, which includes the indirect energy of the manufacturing of the product as well as the energy it use.
 ## uses of energy
 
 | direct | indirect |
