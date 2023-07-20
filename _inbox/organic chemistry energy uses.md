@@ -1,13 +1,15 @@
 #ztlit 
 [[skirvingOrganicChemistryEnergy2023]]
 # objectives
-- [ ]I can state what energy is.
-- [ ]I can describe what is meant by energy consumption.
-- [ ]I can explain how energy is used in everyday life.
-- [ ]I can describe the direct use of energy in everyday life, e.g. lighting heating, fuel for transport etc.
-- [ ]I can describe how energy is consumed indirectly.
-- [ ]I can explain how indirect consumption of energy is associated with the production of consumer goods, energy required to build homes and infrastructure, energy for transporting goods and growing food etc.
-- [ ]I can compare direct and indirect use of energy in everyday life.
+- [x] I can state what energy is.  [completion:: 2023-07-20]
+	- [[#energy]]
+- [ ] I can describe what is meant by energy consumption.
+	- [[#energy consumption]]
+- [ ] I can explain how energy is used in everyday life.
+- [ ] I can describe the direct use of energy in everyday life, e.g. lighting heating, fuel for transport etc.
+- [ ] I can describe how energy is consumed indirectly.
+- [ ] I can explain how indirect consumption of energy is associated with the production of consumer goods, energy required to build homes and infrastructure, energy for transporting goods and growing food etc.
+- [ ] I can compare direct and indirect use of energy in everyday life.
 # energy
 - energy is the ability to do work.
 ## direct energy
