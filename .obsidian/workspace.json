@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 s2 science objectives.md",
+                "file": "_slipbox/10 s2 science objectives.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 s2 science objectives.md",
+                "file": "_slipbox/10 s2 science objectives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 s2 science objectives.md",
+                "file": "_slipbox/10 s2 science objectives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 s2 science objectives.md"
+                "file": "_slipbox/10 s2 science objectives.md"
               }
             }
           },
@@ -178,6 +178,8 @@
   },
   "active": "684a92fddbc36b6c",
   "lastOpenFiles": [
+    "intro to organic chemistry.md",
+    "_slipbox/10 s2 science objectives.md",
     "_inbox/organic chemistry energy uses.md",
     "_inbox/organic chemistry hydrocarbons.md",
     "zettel.md",
@@ -209,8 +211,6 @@
     "ztslipbox.md",
     "ztoutbox.md",
     "Beans.md",
-    "_slipbox/How to Take Smart Notes One Simple Technique to Boost Writing, Learning and Thinking.md",
-    "_slipbox/Zen and the Art of Motorcycle Maintenance.md",
     "_slipbox",
     "slipbox/Untitled",
     "slipbox/bib",

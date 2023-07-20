@@ -17,6 +17,20 @@
     "pageCountType": "ByWords"
   },
   "cachedCounts": {
+    "_slipbox/10 s2 science objectives.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 1748,
+      "pageCount": 5.826666666666667,
+      "characterCount": 11740,
+      "nonWhitespaceCharacterCount": 9975,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1689720044273,
+      "modifiedDate": 1689784777612,
+      "sizeInBytes": 11754
+    },
     "_slipbox/skirvingOrganicChemistryEnergy2023.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -409,61 +423,33 @@
       "modifiedDate": 1689582586000,
       "sizeInBytes": 332476
     },
-    "intro to organic chemistry.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 1095,
-      "pageCount": 3.65,
-      "characterCount": 7811,
-      "nonWhitespaceCharacterCount": 6144,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1689720044377,
-      "modifiedDate": 1689576481000,
-      "sizeInBytes": 7827
-    },
     "Day Planners/Day Planner-20230720.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 143,
-      "pageCount": 0.4766666666666667,
-      "characterCount": 859,
-      "nonWhitespaceCharacterCount": 599,
+      "wordCount": 137,
+      "pageCount": 0.45666666666666667,
+      "characterCount": 847,
+      "nonWhitespaceCharacterCount": 593,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1689841888451,
-      "modifiedDate": 1689788773000,
-      "sizeInBytes": 859
+      "modifiedDate": 1689845846109,
+      "sizeInBytes": 847
     },
     "Day Planners/Day Planner-20230719.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 87,
-      "pageCount": 0.29,
+      "wordCount": 86,
+      "pageCount": 0.2866666666666667,
       "characterCount": 602,
-      "nonWhitespaceCharacterCount": 422,
+      "nonWhitespaceCharacterCount": 423,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1689760148874,
-      "modifiedDate": 1689782352766,
+      "modifiedDate": 1689844288500,
       "sizeInBytes": 602
-    },
-    "10 s2 science objectives.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 1748,
-      "pageCount": 5.826666666666667,
-      "characterCount": 11740,
-      "nonWhitespaceCharacterCount": 9975,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1689720044273,
-      "modifiedDate": 1689784777612,
-      "sizeInBytes": 11754
     }
   }
 }

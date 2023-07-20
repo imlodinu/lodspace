@@ -27,7 +27,7 @@
 
 20. TODO I can state what organic chemistry is
 21. TODO I can explain how fractional distillation works and how it is used to separate different substances within crude oil.
-22. I can recognise homologous series of hydrocarbons:
+22. I can recognise homologous series of hydrocarbons.
 23. I can state what a functional group is and recognise functional groups of the homologous series listed above.
 24. I can general formulae to recognise members of homologous series.
 25. I can state what a saturated hydrocarbon is.
