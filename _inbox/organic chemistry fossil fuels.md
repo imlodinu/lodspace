@@ -12,4 +12,4 @@
 - a fossil fuel is a substance formed through <mark style="background: #ABF7F7A6;">high temperatures</mark> and <mark style="background: #ABF7F7A6;">high pressure</mark> from <mark style="background: #ABF7F7A6;">decaying</mark> plant and animal matter over prolonged periods of time.
 - a fossil fuel ultimately is a hydrocarbon mixture.
 ## burning of fossil fuels
-- 
+- the levels of $CO_2$ in the atmosphere increases with the burning of fossil fuels.

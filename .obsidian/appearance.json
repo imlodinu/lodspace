@@ -4,5 +4,9 @@
   "interfaceFontFamily": "JetBrains Mono",
   "textFontFamily": "JetBrains Mono",
   "monospaceFontFamily": "JetBrains Mono",
-  "baseFontSize": 17
+  "baseFontSize": 17,
+  "enabledCssSnippets": [
+    "mermaid",
+    "rounded_mark"
+  ]
 }
