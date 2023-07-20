@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "b95cb8fb9a73cd00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day Planners/Day Planner-20230720.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "684a92fddbc36b6c",
             "type": "leaf",
             "state": {
@@ -112,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_inbox/organic chemistry energy uses.md",
+                "file": "Day Planners/Day Planner-20230720.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_inbox/organic chemistry energy uses.md",
+                "file": "Day Planners/Day Planner-20230720.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_inbox/organic chemistry energy uses.md"
+                "file": "Day Planners/Day Planner-20230720.md"
               }
             }
           },
@@ -188,10 +200,11 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "684a92fddbc36b6c",
+  "active": "b95cb8fb9a73cd00",
   "lastOpenFiles": [
-    "_slipbox/10 s2 science objectives.md",
+    "zettel.md",
     "_inbox/organic chemistry energy uses.md",
+    "_slipbox/10 s2 science objectives.md",
     "_inbox/basic sql snippets.md",
     "_inbox/organic chemistry hydrocarbons.md",
     "_inbox/into the spiderverse.md",
@@ -205,7 +218,6 @@
     "_slipbox/prisigZenArtMotorcycle2014.md",
     "_slipbox/prisigZenArtMotorcycle2014_LAPTOP-UM55OBHC_Jul-17-231536-2023_Conflict.md",
     "intro to organic chemistry.md",
-    "zettel.md",
     "Day Planners/Day Planner-20230720.md",
     "Day Planners/Day Planner-20230719.md",
     "2023-07-20.md",
