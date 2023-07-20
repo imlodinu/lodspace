@@ -13,4 +13,4 @@
 - a fossil fuel ultimately is a hydrocarbon mixture.
 ## burning of fossil fuels
 - the levels of $CO_2$ in the atmosphere increases with the burning of fossil fuels.
-	- fossil fuels are hydrocarbons, and the combustion of hydrocarbons [[hydro]]
+	- fossil fuels are hydrocarbons, and the combustion of hydrocarbons results in 
