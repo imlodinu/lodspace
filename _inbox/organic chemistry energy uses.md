@@ -9,7 +9,7 @@
 |respiration converts the stored chemical energy into _ATP energy_ for cells|photosynthesis converts light energy into stored chemical energy in the form of food, food is consumed|
 |solar cells converts insolation into _electrical energy_ to power appliances|electrical energy used in order to produce solar cells|
 ## direct energy
- - direct energy usage is the usage of energy consumed 
+ - direct energy usage is energy used by an individual.
 ## indirect energy
  - indirect energy usage is energy associated with production.
 ## process of fossil fuel formation
