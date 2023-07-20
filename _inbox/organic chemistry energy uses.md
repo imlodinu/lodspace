@@ -1,15 +1,14 @@
 #ztlit 
 [[skirvingOrganicChemistryEnergy2023]]
-
-## energy
+# energy
 - energy is the ability to do work.
 ## direct energy
 - direct energy is energy used by oneself.
-## indirect energy
+# indirect energy
 - indirect energy is energy associated with production.
-## energy consumption
+# energy consumption
 - all the energy required to perform an action, which includes the indirect energy of the manufacturing of the product as well as the energy it use.
-## uses of energy
+# uses of energy
 
 | direct | indirect |
 | --- | ---|
@@ -17,7 +16,7 @@
 |respiration converts the stored chemical energy into _ATP energy_ for cells|photosynthesis converts light energy into stored chemical energy in the form of food, food is consumed|
 |solar cells converts insolation into _electrical energy_ to power appliances|electrical energy used in order to produce solar cells|
 
-## process of fossil fuel formation
+# process of fossil fuel formation
 - natural gas
 - crude oil
 ```mermaid
