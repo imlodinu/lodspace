@@ -17,6 +17,20 @@
     "pageCountType": "ByWords"
   },
   "cachedCounts": {
+    "_slipbox/skirvingOrganicChemistryHydrocarbons2023.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 23,
+      "pageCount": 0.07666666666666666,
+      "characterCount": 173,
+      "nonWhitespaceCharacterCount": 147,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1689845977670,
+      "modifiedDate": 1689845977670,
+      "sizeInBytes": 214
+    },
     "_slipbox/10 s2 science objectives.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -420,7 +434,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1689841888451,
-      "modifiedDate": 1689845916107,
+      "modifiedDate": 1689845978101,
       "sizeInBytes": 847
     },
     "Day Planners/Day Planner-20230719.md": {
