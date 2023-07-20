@@ -8,4 +8,4 @@
 - [ ] I can name common greenhouse gases (CO2, CH4, N2O, CFCs & HFCs)
 - [ ] I can describe some effects of the greenhouse effect (local & global).
 # fossil fuels
-- a fossil fuel is a substance formed through 
+- a fossil fuel is a substance formed through <mark style="background: #ABF7F7A6;">high temperatures</mark> and <mark style="background: #ABF7F7A6;">high pressure</mark>
