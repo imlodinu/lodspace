@@ -9,8 +9,8 @@
 	- [[#uses of energy]]
 - [x] I can describe the direct use of energy in everyday life, e.g. lighting heating, fuel for transport etc.  [completion:: 2023-07-20]
 - [x] I can describe how energy is consumed indirectly.  [completion:: 2023-07-20]
-- [ ] I can explain how indirect consumption of energy is associated with the production of consumer goods, energy required to build homes and infrastructure, energy for transporting goods and growing food etc.
-- [ ] I can compare direct and indirect use of energy in everyday life.
+- [x] I can explain how indirect consumption of energy is associated with the production of consumer goods, energy required to build homes and infrastructure, energy for transporting goods and growing food etc.  [completion:: 2023-07-20]
+- [x] I can compare direct and indirect use of energy in everyday life.  [completion:: 2023-07-20]
 # energy
 - energy is the ability to do work.
 ## direct energy
