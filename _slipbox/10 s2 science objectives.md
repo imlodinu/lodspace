@@ -1,6 +1,6 @@
 #school #science #ztlit
 # energy consumption and fossil fuels
-
+## energy consumption
 1. I can state what energy is.
 2. I can describe what is meant by energy consumption.
 3. I can explain how energy is used in everyday life.
@@ -8,6 +8,7 @@
 5. I can describe how energy is consumed indirectly.
 6. I can explain how indirect consumption of energy is associated with the production of consumer goods, energy required to build homes and infrastructure, energy for transporting goods and growing food etc.
 7. I can compare direct and indirect use of energy in everyday life.
+## fossil fuels
 8. I can review what is meant by a fossil fuel (coal, crude oil, natural gas).
 9. I can explain what happens to the levels of CO2 in the atmosphere with the burning of fossil fuels.
 10. I can describe the greenhouse effect using ideas about energy and radiation:
