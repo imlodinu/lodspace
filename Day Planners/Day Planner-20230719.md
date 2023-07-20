@@ -25,4 +25,4 @@ gantt
 - [x] 19:50 mathspace
 - [x] 20:00 BREAK
 - [x] 20:10 anki cards
-- [ ] 23:00 END
+- [x] 23:00 END
