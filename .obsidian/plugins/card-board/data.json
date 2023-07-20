@@ -1,0 +1,38 @@
+{
+  "version": "0.10.0",
+  "data": {
+    "boardConfigs": [
+      {
+        "tag": "dateBoardConfig",
+        "data": {
+          "completedCount": 10,
+          "filters": [
+            {
+              "tag": "pathFilter",
+              "data": "tasks"
+            }
+          ],
+          "filterPolarity": "Allow",
+          "filterScope": "Both",
+          "showFilteredTags": true,
+          "includeUndated": true,
+          "title": "tasks",
+          "collapsedColumns": []
+        }
+      }
+    ],
+    "globalSettings": {
+      "taskCompletionFormat": "ObsidianDataview",
+      "columnNames": {
+        "today": "",
+        "tomorrow": "",
+        "future": "",
+        "undated": "",
+        "others": "",
+        "untagged": "",
+        "completed": ""
+      },
+      "ignoreFileNameDates": false
+    }
+  }
+}

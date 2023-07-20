@@ -1,0 +1,37 @@
+/** Mermaid Gantt **/
+
+/* Tasks */
+.section0 {
+    fill: var(--background-primary) !important;
+}
+
+.sectionTitle0 {
+    fill: var(--text-normal) !important;
+}
+
+.task0 {
+    fill: var(--background-primary-alt) !important;
+    stroke: var(--background-modifier-border) !important;
+}
+
+.taskText0 {
+    fill: var(--text-normal) !important;
+}
+
+/* Breaks */
+.section1 {
+    fill: var(--background-primary) !important;
+}
+
+.sectionTitle0 {
+    fill: var(--text-normal) !important;
+}
+
+.task1 {
+    fill: var(--background-primary-alt) !important;
+    stroke: var(--background-modifier-border) !important;
+}
+
+.taskText1 {
+    fill: var(--text-highlight-bg) !important;
+}

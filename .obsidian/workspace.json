@@ -32,18 +32,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "416df483aa73111b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_inbox/organic chemistry.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -190,6 +178,10 @@
   },
   "active": "da1ad6eae32c0697",
   "lastOpenFiles": [
+    "_slipbox/prisigZenArtMotorcycle2014_LAPTOP-UM55OBHC_Jul-17-231536-2023_Conflict.md",
+    "_inbox/into the spiderverse.md",
+    "Day Planners/Day Planner-20230720.md",
+    "_inbox/organic chemistry hydrocarbons.md",
     "_slipbox/skirvingOrganicChemistryEnergy2023.md",
     "_inbox/basic sql snippets.md",
     "_inbox/organic chemistry.md",
@@ -200,7 +192,6 @@
     "_slipbox/ahrensHowTakeSmart.md",
     "_slipbox/boardworksIntroducingOrganicChemistry2009.md",
     "_slipbox/prisigZenArtMotorcycle2014.md",
-    "_slipbox/prisigZenArtMotorcycle2014_LAPTOP-UM55OBHC_Jul-17-231536-2023_Conflict.md",
     "zettel.md",
     "_inbox/underwater world dream.md",
     "media/Organic+chemistry+hydrocarbons+(4).pptx",
@@ -223,9 +214,6 @@
     "slipbox/bib",
     "intro to organic chemistry.md",
     "task_bucket/make zettel.md",
-    "10 s2 science objectives.md",
-    "10 s2 english composing task.md",
-    "GMTK 2023 brainstorming.md",
     "_outbox",
     "_bibbox",
     "_inbox",

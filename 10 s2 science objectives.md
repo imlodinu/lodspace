@@ -23,10 +23,10 @@
 18. <mark style="background: #D2B3FFA6;">I can reflect on some of the practices I could do to use less energy.</mark>
 19. <mark style="background: #D2B3FFA6;">I can evaluate the wider impact of climate change.</mark>
 
-# organic chemistry
+# hydrocarbons
 
-20. I can state what organic chemistry is
-21. I can explain how fractional distillation works and how it is used to separate different substances within crude oil.
+20. TODO I can state what organic chemistry is
+21. TODO I can explain how fractional distillation works and how it is used to separate different substances within crude oil.
 22. I can recognise homologous series of hydrocarbons:
 23. I can state what a functional group is and recognise functional groups of the homologous series listed above.
 24. I can general formulae to recognise members of homologous series.

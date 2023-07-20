@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "7da1af139dd5cc06",
+    "type": "split",
+    "children": [
+      {
+        "id": "75e119627c212846",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21469f7a499bf38d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_inbox/morning of 2023-07-19 rant.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c91b0955aafc51a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day Planners/Day Planner-20230719.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a40fae6882122e71",
+            "type": "leaf",
+            "state": {
+              "type": "card-board-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "7a1f080d5a4a9f47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_inbox/into the spiderverse.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8612f3e8fbbf479f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ce2ebe86f7de5ac7",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b3e84bee24ad396d",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "efd2e645057db9ed",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "e9307e6e384b88a5",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "67f6015efe4ec033",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "2922b90d175b19f1",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "_inbox/into the spiderverse.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "886fc413311a685f",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "_inbox/into the spiderverse.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "042dd944e2ef2551",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "_inbox/into the spiderverse.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "card-board:CardBoard": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-projects:Open projects": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "7a1f080d5a4a9f47",
+  "lastOpenFiles": [
+    "Day Planners/Day Planner-20230720.md",
+    "_inbox/into the spiderverse.md",
+    "_inbox/morning of 2023-07-19 rant.md",
+    "_inbox/last day before 2023.2 🥶.md",
+    "_inbox/organic chemistry.md",
+    "media/labelling_branched_alkanes_3.svg",
+    "zettel.md",
+    "_inbox/last day before school 🥶.md",
+    "_inbox/labelling_branched_alkanes_3.svg",
+    "_inbox/threat from underwater.md",
+    "_inbox/underwater world dream.md",
+    "Untitled.canvas"
+  ]
+}
