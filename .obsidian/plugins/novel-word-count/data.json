@@ -148,14 +148,14 @@
       "noteCount": 1,
       "wordCount": 2108,
       "pageCount": 7.026666666666666,
-      "characterCount": 14028,
-      "nonWhitespaceCharacterCount": 11806,
+      "characterCount": 14044,
+      "nonWhitespaceCharacterCount": 11822,
       "linkCount": 23,
       "embedCount": 4,
       "aliases": null,
       "createdDate": 1689720058517,
-      "modifiedDate": 1689777019919,
-      "sizeInBytes": 14028
+      "modifiedDate": 1689845999091,
+      "sizeInBytes": 14044
     },
     "_inbox/morning of 2023-07-19 rant.md": {
       "isDirectory": false,
@@ -184,20 +184,6 @@
       "createdDate": 1689843758023,
       "modifiedDate": 1689825988000,
       "sizeInBytes": 1576
-    },
-    "_inbox/last day before 2023.2 🥶.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 72,
-      "pageCount": 0.24,
-      "characterCount": 494,
-      "nonWhitespaceCharacterCount": 409,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1689720662938,
-      "modifiedDate": 1689755465770,
-      "sizeInBytes": 494
     },
     "_inbox/into the spiderverse.md": {
       "isDirectory": false,
@@ -420,7 +406,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1689841888451,
-      "modifiedDate": 1689845986104,
+      "modifiedDate": 1689846032101,
       "sizeInBytes": 847
     },
     "Day Planners/Day Planner-20230719.md": {
