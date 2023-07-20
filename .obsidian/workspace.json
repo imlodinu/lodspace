@@ -46,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_inbox/organic chemistry energy uses.md",
+                "file": "_slipbox/10 s2 science objectives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_inbox/organic chemistry energy uses.md",
+                "file": "_slipbox/10 s2 science objectives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_inbox/organic chemistry energy uses.md"
+                "file": "_slipbox/10 s2 science objectives.md"
               }
             }
           },
@@ -188,10 +188,10 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "684a92fddbc36b6c",
+  "active": "93fb640af11ee541",
   "lastOpenFiles": [
-    "_slipbox/10 s2 science objectives.md",
     "_inbox/organic chemistry energy uses.md",
+    "_slipbox/10 s2 science objectives.md",
     "_inbox/basic sql snippets.md",
     "_inbox/organic chemistry hydrocarbons.md",
     "_inbox/into the spiderverse.md",
