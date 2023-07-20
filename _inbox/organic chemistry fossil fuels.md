@@ -15,4 +15,5 @@
 - with the burning of fossil fuels, the levels of $CO_2$ in the atmosphere increases. ^c46ef0
 	- fossil fuels are hydrocarbons, and the combustion of hydrocarbons results in the release of $CO_2$ and $H_2O$.
 # greenhouse effect
+- when insolation reaches earth's atmosphere
 # modified greenhouse effect
