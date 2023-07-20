@@ -3,11 +3,12 @@
 # objectives
 - [x] I can state what energy is.  [completion:: 2023-07-20]
 	- [[#energy]]
-- [ ] I can describe what is meant by energy consumption.
+- [x] I can describe what is meant by energy consumption.  [completion:: 2023-07-20]
 	- [[#energy consumption]]
-- [ ] I can explain how energy is used in everyday life.
-- [ ] I can describe the direct use of energy in everyday life, e.g. lighting heating, fuel for transport etc.
-- [ ] I can describe how energy is consumed indirectly.
+- [x] I can explain how energy is used in everyday life.  [completion:: 2023-07-20]
+	- [[#uses of energy]]
+- [x] I can describe the direct use of energy in everyday life, e.g. lighting heating, fuel for transport etc.  [completion:: 2023-07-20]
+- [x] I can describe how energy is consumed indirectly.  [completion:: 2023-07-20]
 - [ ] I can explain how indirect consumption of energy is associated with the production of consumer goods, energy required to build homes and infrastructure, energy for transporting goods and growing food etc.
 - [ ] I can compare direct and indirect use of energy in everyday life.
 # energy
