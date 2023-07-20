@@ -1,4 +1,7 @@
 #school #english #ztlit
+- [x] complete story [priority:: high] [due:: 2023-07-21]
+- [x] statement of intent [priority:: high] [due:: 2023-07-21]
+- [ ] submission [priority:: high] [due:: 2023-07-21]
 # generic conventions
 
 - Plot

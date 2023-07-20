@@ -1,7 +1,3 @@
----
-status: done
-due: 2023-07-04
----
 #gamedev #task
 # todo a:
 - [x] disable missions after reaching goal  [completion:: 2023-07-10]
