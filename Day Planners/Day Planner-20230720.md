@@ -3,7 +3,7 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 6:04:50 PM
+    %% Current Time: 6:05:20 PM
     section Tasks
     wake up     :06-00, 30m
     be ready and prepped for school     :06-30, 30m
@@ -26,7 +26,7 @@ gantt
 - [x] 16:00 return from school
 - [x] 16:30 exercise
 - [x] 17:00 shower
-- [ ] 17:25 energy changes unit
+- [x] 17:25 energy changes unit
 - [ ] 18:05 BREAK
 - [ ] 18:15 japanese EP
 - [ ] 19:00 BREAK
